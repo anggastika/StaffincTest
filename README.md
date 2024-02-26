@@ -3,6 +3,9 @@
 [![Java](https://img.shields.io/badge/-Java%20JDK-%23007396?logo=java&logoColor=black&)](https://www.oracle.com/java/technologies/downloads/)
 [![VSCode](https://img.shields.io/badge/-Visual%20Studio%20Code-%233178C6?logo=visual-studio-code)](https://code.visualstudio.com/download)
 
+### Jawaban Soal Essay:
+https://docs.google.com/document/d/1b079jbift6xOKVmrjzux_ojWf-WTrlWkLT0iGSrflHw/edit?usp=sharing
+
 ### Getting Started
 
 ```
